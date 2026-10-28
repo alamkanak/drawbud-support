@@ -320,6 +320,9 @@
 .resize-y {
   resize: vertical;
 }
+.list-disc {
+  list-style-type: disc;
+}
 .flex-col {
   flex-direction: column;
 }
@@ -516,6 +519,9 @@
 }
 .pb-16 {
   padding-bottom: calc(var(--spacing) * 16);
+}
+.pl-5 {
+  padding-left: calc(var(--spacing) * 5);
 }
 .text-center {
   text-align: center;
